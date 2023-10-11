@@ -1,0 +1,28 @@
+.header{
+  color: white;
+  background-color: #094297;
+  font-size: 40px;
+  height: 100px;
+  padding: 20px;
+}
+
+.footer{
+  color: white;
+  background-color: #094297;
+  font-size: 20px;
+  height: 60px;
+  padding: 20px;
+}
+
+.btn{
+  color: #094297;
+  background-color: #b5c2bf;
+  padding: 10px;
+  margin: 20px;
+  font-size: 25px;
+}
+
+/* .image_size{
+  width: 80px;
+  height: 80px;
+} */
