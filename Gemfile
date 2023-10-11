@@ -20,6 +20,9 @@ group :development, :test do
   gem 'bcrypt'
   gem 'dotenv-rails'
   gem 'pry-rails'
+  gem 'net-smtp'
+  gem 'net-imap'
+  gem 'net-pop'
 end
 
 group :development do
